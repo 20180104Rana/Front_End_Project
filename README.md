@@ -50,7 +50,7 @@ Academic Page
 
 Courses Page
 
-![image](https://user-images.githubusercontent.com/63797979/182193991-e3922407-b5c9-4299-8d0c-a92d6c813b5a.png)
+![image](https://user-images.githubusercontent.com/63797979/182196974-8d4c3dd0-8ebe-4f17-a7cb-c50c0fa86285.png)
 
 
 # User Interface (UI)Design
